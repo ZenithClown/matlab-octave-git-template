@@ -1,4 +1,4 @@
-# .gitattributes for Python-Files
+# .gitattributes for MatLAB/Octave/Simulink
 # Check https://in.mathworks.com/help/matlab/matlab_prog/set-up-git-source-control.html
 
 # Auto Detect text-Files and perform LF Normalizations
